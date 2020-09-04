@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/front-end-url-shortener/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/front-end-url-shortener/static/js/main.b086c1c9.chunk.js",
-    "main.js.map": "/front-end-url-shortener/static/js/main.b086c1c9.chunk.js.map",
+    "main.js": "/front-end-url-shortener/static/js/main.d92cc603.chunk.js",
+    "main.js.map": "/front-end-url-shortener/static/js/main.d92cc603.chunk.js.map",
     "runtime-main.js": "/front-end-url-shortener/static/js/runtime-main.bfb26384.js",
     "runtime-main.js.map": "/front-end-url-shortener/static/js/runtime-main.bfb26384.js.map",
     "static/js/2.f9da7127.chunk.js": "/front-end-url-shortener/static/js/2.f9da7127.chunk.js",
     "static/js/2.f9da7127.chunk.js.map": "/front-end-url-shortener/static/js/2.f9da7127.chunk.js.map",
     "index.html": "/front-end-url-shortener/index.html",
-    "precache-manifest.3c80e43c2d3d78801e9d4d8123761d1b.js": "/front-end-url-shortener/precache-manifest.3c80e43c2d3d78801e9d4d8123761d1b.js",
+    "precache-manifest.649daac1336cf1e4faeff505632a5833.js": "/front-end-url-shortener/precache-manifest.649daac1336cf1e4faeff505632a5833.js",
     "service-worker.js": "/front-end-url-shortener/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/front-end-url-shortener/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.f9da7127.chunk.js.LICENSE.txt": "/front-end-url-shortener/static/js/2.f9da7127.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bfb26384.js",
     "static/js/2.f9da7127.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.b086c1c9.chunk.js"
+    "static/js/main.d92cc603.chunk.js"
   ]
 }
