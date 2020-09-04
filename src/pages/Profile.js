@@ -101,8 +101,12 @@ class Profile extends Component {
             placeholder="http://localhost:3000/"
           />
           {this.state.ultimaUrlEncurtada ? (
-            <a href={`http://localhost:3000/${this.state.ultimaUrlEncurtada}`}>
-              http://localhost:3000/{this.state.ultimaUrlEncurtada}
+            <a
+              target={"blank"}
+              href={`https://igortheodoro.github.io/front-end-url-shortener/#/front-end-url-shortener/${this.state.ultimaUrlEncurtada}`}
+            >
+              https://igortheodoro.github.io/front-end-url-shortener/#/front-end-url-shortener/
+              {this.state.ultimaUrlEncurtada}
             </a>
           ) : null}
           <Btn click={this.urlHandler} background="#00a0cc">

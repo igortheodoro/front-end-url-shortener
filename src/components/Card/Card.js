@@ -8,7 +8,7 @@ export default function Card(props) {
     <Aux>
       <Div>
         <p>
-          <Span color="#032d38">Url Encurtada:</Span>
+          <Span color="#032d38">Código do endpoint:</Span>
           {props.urlEncurtada}
         </p>
         <p>
