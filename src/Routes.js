@@ -5,6 +5,7 @@ import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Profile from "./pages/Profile";
 import Redirect from "./pages/Redirect";
+import Index from "./pages/Index";
 
 export default function MainRoutes() {
   return (
@@ -19,6 +20,10 @@ export default function MainRoutes() {
 
       <Route path="/perfil">
         <Profile />
+      </Route>
+
+      <Route exact path="/">
+        <Index />
       </Route>
 
       <Route path="/">
